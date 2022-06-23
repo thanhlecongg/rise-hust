@@ -20,4 +20,4 @@ design:
 
 <br>
 
-We are *Huynh's Lab* at School of Information and Communication Technology, Hanoi University of Science and Technology. We primarily work at the intersection of software engineering, artificial intelligence, and programming language. 
+We are *RISE (Research group on Intelligent Software Engineering* at School of Information and Communication Technology, Hanoi University of Science and Technology. We primarily work at the intersection of software engineering, artificial intelligence, and programming language. 
