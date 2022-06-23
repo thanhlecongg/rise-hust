@@ -1,7 +1,7 @@
 name = "Old Standard TT"
 
 # Optional Google font URL
-google_fonts = "family=Old+Standard+TT&display=swap"
+google_fonts = "family=Old+Standard+TT"
 
 # Font families
 heading_font = "Montserrat"
