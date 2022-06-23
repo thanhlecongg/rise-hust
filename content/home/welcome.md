@@ -7,11 +7,11 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Welcome to RISE Website !
-
+  Welcome to RISE Website
+hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
   # Add custom styles
   css_style:
   css_class:
@@ -19,4 +19,4 @@ design:
 
 <br>
 
-We are *RISE (Research group on Intelligent Software Engineering)* at School of Information and Communication Technology, Hanoi University of Science and Technology. We primarily work at the intersection of software engineering, artificial intelligence, and programming language. 
+We are *RISE (Research group on Intelligent Software Engineering)* at School of Information and Communication Technology, Hanoi University of Science and Technology. We primarily work at the intersection of **software engineering**, **artificial intelligence**, and **programming language**. 
