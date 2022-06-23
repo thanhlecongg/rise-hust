@@ -26,7 +26,7 @@ education:
     - course: PhD in Information and Computer Sciences
       institution: Varna Technical University, Bulgaria
       year: 1995
-    - course:BS & MS in Electronics and Information Technologygy
+    - course: BS & MS in Electronics and Information Technologygy
       institution: Varna Technical University, Bulgaria
       year: 1990
 
