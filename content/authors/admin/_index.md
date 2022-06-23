@@ -56,7 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Faculty
 ---
 
 Quyet-Thang Huynh is an Associate Professor of Computer Science at the School of Information and Communication Technology (SoICT), Hanoi University of Science and Technology (HUST). He received his Ph.D. in Information and Computer Sciences in 1996 from Technical University of Varna, Bulgaria. His current research interests include software quality, software testing, methods in software development, multi-objective optimization, project management, big data processing and analytics. Dr. Quyet-Thang has published over 80 research articles in international and Vietnamese journals and conference proceedings and co-authored 06 books/monographs. He is a member of ACM, IEEE, VAIP, VINASA.
