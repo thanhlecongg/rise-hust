@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+We are *Huynh's Lab* at School of Information and Communication Technology, Hanoi University of Science and Technology. We primarily work at the intersection of software engineering, artificial intelligence, and programming language. 
