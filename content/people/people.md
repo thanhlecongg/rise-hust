@@ -18,6 +18,7 @@ content:
   user_groups:
     - Professor
     - Graduate Students
+    - Undergraduate Students
 design:
   show_interests: false
   show_role: true
