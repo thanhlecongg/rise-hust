@@ -6,7 +6,6 @@ date: 2022-14-06
 Congratulations to Le-Cong Thanh, Dr. Le Dinh Xuan Bach and Prof. Huynh Quyet-Thang for the acceptance of their ESEC/FSE 2022 (Rank A*, Acceptance Rate = 22%) full research paper titled "AutoPruner: Transformer-based Call Graph Pruning"
 
 <!--more-->
-
 Constructing a static call graph requires trade-offs between soundness and precision. 
 Program analysis techniques for constructing call graphs are unfortunately usually  imprecise. To address this problem, researchers have recently proposed *call graph pruning* empowered by machine learning to post-process call graphs constructed by static analysis. A machine learning model is built to capture information from the call graph by extracting structural features for use in a random forest classifier. It then removes edges that are predicted to be false positives. Despite the improvements shown by machine learning models, they are still limited as they do not consider the source code semantics and thus often are not able to effectively distinguish true and false positives.
 
