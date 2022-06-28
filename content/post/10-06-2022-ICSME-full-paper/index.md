@@ -1,6 +1,6 @@
 ---
 title: An accepted paper in ICSME 2022
-date: 2022-14-06
+date: 2022-06-14
 ---
 
 Congratulations to Thanh Le-Cong, Dr. Bach Le and Prof. Quyet-Thang Huynh for the acceptance of their ICSME 2022 (Rank A, Acceptance Rate = 23%) full research paper titled "FFL: Fine-grained Fault Localization for Student Programs via Syntactic and Semantic Reasoning"

@@ -1,6 +1,6 @@
 ---
 title: An accepted paper in IET Software 2022
-date: 2021-31-12
+date: 2022-01-25
 ---
 
 Congratulations to Prof. Huynh Quyet-Thang for the acceptance of their IET Software 2022 (ISI Q2, Impact Factor = 1.05) full research paper titled "New non-homogeneous Poisson process software reliability model based on a 3-parameter S-shaped function"

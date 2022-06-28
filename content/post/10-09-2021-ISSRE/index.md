@@ -1,6 +1,6 @@
 ---
 title: An accepted paper in ISSRE 2021
-date: 2021-10-09
+date: 2021-09-10
 ---
 
 Congratulations to Le-Cong Thanh, Dr. Le Dinh Xuan Bach and Prof. Huynh Quyet-Thang for the acceptance of their ISSRE 2021 (Rank A, Acceptance Rate = 27,5%) full research paper entitled "Usability and Aesthetics: Better Together for Automated Repair of Web Pages" 

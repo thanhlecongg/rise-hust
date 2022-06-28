@@ -1,6 +1,6 @@
 ---
 title: An accepted paper in ICSE 2022
-date: 2021-31-12
+date: 2021-12-31
 ---
 
 Congratulations to Le-Cong Thanh, Dr. Le Dinh Xuan Bach and Prof. Huynh Quyet-Thang for the acceptance of their ICSE 2022 (Rank A*, Acceptance Rate = 22%) NIER paper titled "Toward the Analysis of Graph Neural Networks"

@@ -1,6 +1,6 @@
 ---
 title: An accepted paper in MICCAI 2021
-date: 2021-10-09
+date: 2021-09-21
 ---
 
 Congratulations to Nguyen Trung-Hieu and Prof. Huynh Quyet-Thang for the acceptance of their MICCAI 2021 (Rank A*, Acceptance Rate = 30%) full research paper entitled "VinDr-SpineXR: A Deep Learning Framework for Spinal Lesions Detection and Classification from Radiographs"
