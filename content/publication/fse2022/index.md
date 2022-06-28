@@ -6,8 +6,8 @@ authors:
   - Nguyen Truong-Giang
   - Stefanus A. Haryono
   - David Lo
-  - Le Dinh Xuan Bach
-  - Huynh Quyet-Thang
+  - bachldx
+  - thanghq
 
 date: '2022-06-14T00:00:00Z'
 doi: ''
