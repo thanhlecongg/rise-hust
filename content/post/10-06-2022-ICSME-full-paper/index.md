@@ -6,7 +6,6 @@ date: 2022-14-06
 Congratulations to Thanh Le-Cong, Dr. Bach Le and Prof. Quyet-Thang Huynh for the acceptance of their ICSME 2022 (Rank A, Acceptance Rate = 23%) full research paper titled "FFL: Fine-grained Fault Localization for Student Programs via Syntactic and Semantic Reasoning"
 
 <!--more-->
-
 Fault localization has been used to provide feedback for incorrect student programs since locations of faults can be a valuable hint for students about what caused their programs to crash. Unfortunately, existing fault localization techniques for student programs are limited because they usually consider either the program’s syntax or semantics alone. This motivates the new design of fault localization techniques that use both semantic and syntactical information of the program.
 
 In this paper, we introduce FFL (Fine grained Fault Localization), a novel technique using syntactic and semantic reasoning for localizing bugs in student programs. The novelty in FFL that allows it to capture both syntactic and semantic
