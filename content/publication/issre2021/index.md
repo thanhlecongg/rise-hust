@@ -8,7 +8,6 @@ authors:
 
 date: '2021-09-11T00:00:00Z'
 doi: ''
-
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
 
