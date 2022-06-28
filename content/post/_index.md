@@ -8,4 +8,8 @@ view: compact
 banner:
   caption: ''
   image: ''
+  
+content:
+  sort_by: 'Date'
+  sort_ascending: false
 ---
