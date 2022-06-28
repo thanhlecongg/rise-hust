@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Tong Van Vinh
+title: Hoang Thanh Dat
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Incoming PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,8 +18,6 @@ bio:
 
 interests:
   - Machine Learning
-  - Graph Neural Network
-  - Graph-based NLP 
 
 education:
   courses:

@@ -1,23 +1,25 @@
 ---
 # Display name
-title: Pham Minh Tam
+title: Tong Van Vinh
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Incoming PhD Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Griffith University
-    url: 'https://www.griffith.edu.au/'
+  - name: University of Stuttgart
+    url: 'https://www.uni-stuttgart.de/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
   - Machine Learning
+  - Graph Neural Network
+  - Graph-based NLP 
 
 education:
   courses:

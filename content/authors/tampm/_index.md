@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hoang Thanh Dat
+title: Pham Minh Tam
 
 # Is this the primary user of the site?
 superuser: true
