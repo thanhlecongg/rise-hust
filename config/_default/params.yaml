@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2022 Le Cong Thanh.'
+    notice: '© 2022 RISE-HUST.'
     license:
       enable: true
       allow_derivatives: false
