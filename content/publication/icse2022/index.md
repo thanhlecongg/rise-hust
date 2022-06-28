@@ -7,6 +7,10 @@ authors:
   - bachldx
   - thanghq
 
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  
 date: '2021-12-30T00:00:00Z'
 doi: ''
 
