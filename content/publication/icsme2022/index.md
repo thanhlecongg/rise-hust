@@ -9,10 +9,10 @@ authors:
   - David Lo
   - thanghq
 
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
+
 date: '2022-06-10T00:00:00Z'
 doi: ''
 
