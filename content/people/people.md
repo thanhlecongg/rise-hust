@@ -20,6 +20,7 @@ content:
     - Collaborator
     - Graduate Students
     - Undergraduate Students
+    - Alumni
 design:
   show_interests: false
   show_role: true

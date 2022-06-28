@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Huynh Quyet-Thang
+title: Prof. Huynh Quyet-Thang
 
 # Is this the primary user of the site?
 superuser: true
