@@ -18,8 +18,7 @@ bio:
 
 interests:
   - Artificial Intelligence
-  - Machine Learning
-
+  - Software Engineering
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -27,10 +26,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:locgopro005@gmail.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: https://github.com/bunbohue19
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -48,6 +47,7 @@ highlight_name: false
 user_groups:
   - Undergraduate Students
 ---
+Nguyen Dinh Loc is currently a third-year student majoring in Computer Science in Global ICT Program of Hanoi University of Science and Technology. He is an easy going person who enjoys reading books, listening to music, topics on software engineering and computer science. He always want to develop myself to become better every day :D 
 
 
 

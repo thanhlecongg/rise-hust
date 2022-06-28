@@ -18,7 +18,7 @@ bio:
 
 interests:
   - Artificial Intelligence
-  - Machine Learning
+  - Deep Neural Network Verification
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -27,10 +27,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:tanb74653@gmail.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: https://github.com/tabudz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -48,6 +48,6 @@ highlight_name: false
 user_groups:
   - Undergraduate Students
 ---
-
+Bui Ngoc Tan is currently a third-year student majoring in Computer Science in Talented Engineering Program of Hanoi University of Science and Technology. His fields of interest include artificial intelligence and its  applications in software engineering. Lately, he is concentrating on Deep Neural Network Verification.
 
 
