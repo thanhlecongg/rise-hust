@@ -1,6 +1,6 @@
 ---
 title: 'VinDr-SpineXR: A deep learning framework for spinal lesions detection and classification from radiographs'
-Pham, Hieu H and Nguyen, Nghia T and Nguyen, Ha Q and Huynh, Thang Q and Dao, Minh and Vu, Van
+
 authors:
   - hieunt
   - Pham Huy Hieu
