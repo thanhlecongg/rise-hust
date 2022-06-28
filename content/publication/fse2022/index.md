@@ -31,7 +31,7 @@ abstract: Constructing a static call graph requires trade-offs between soundness
 summary: A novel deep learning-based technique for pruning false positives in static call graphs. 
 
 tags:
-  - ESEC/FSE
+  - ESEC/FSE 2022
 featured: true
 
 links:
@@ -72,5 +72,3 @@ slides:
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
