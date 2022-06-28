@@ -3,7 +3,7 @@ title: An accepted paper in ESEC/FSE 2022
 date: 2022-14-06
 ---
 
-Congratulations to Thanh Le-Cong, Dr. Bach Le and Prof. Quyet-Thang Huynh for the acceptance of their ESEC/FSE 2022 (Rank A*, Acceptance Rate = 22%) full research paper titled "AutoPruner: Transformer-based Call Graph Pruning"
+Congratulations to Le-Cong Thanh, Dr. Le Dinh Xuan Bach and Prof. Huynh Quyet-Thang for the acceptance of their ESEC/FSE 2022 (Rank A*, Acceptance Rate = 22%) full research paper titled "AutoPruner: Transformer-based Call Graph Pruning"
 
 <!--more-->
 
