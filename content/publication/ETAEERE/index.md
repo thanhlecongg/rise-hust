@@ -1,15 +1,12 @@
 ---
-title: 'MMAS Algorithm and Nash Equilibrium to Solve Multi-round Procurement Problem'
+title: 'A New Method for Enhancing Software Effort Estimation by Using ANFIS-Based Approach'
 
 authors:
-  - Le Dac-Nhuong
-  - Nguyen Gia Nhu
-  - Trinh Ngoc Bao
-  - Nguyen Ngoc Tuan
   - thanghq
-  - Suresh Chandra Satapathy 
+  - Nguyen Tran Tuan Nam 
+  - Tran Thi Minh Hoa
 
-date: '2021-03-20T00:00:00Z'
+date: '2021-09-21T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -22,8 +19,8 @@ doi: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE 3rd the International Conference on Emerging Trends and Advances in Electrical Engineering and Renewable Energy*
-publication_short: ETAEERE 2021
+publication: In *IEEE 7th EAI International Conference on Industrial Networks and Intelligent Systems*
+publication_short: INISCOM 2021
 
 # abstract: Radiographs are used as the most important imaging tool for identifying spine anomalies in clinical practice. The evaluation of spinal bone lesions, however, is a challenging task for radiologists. This work aims at developing and evaluating a deep learning-based framework, named VinDr-SpineXR, for the classification and localization of abnormalities from spine X-rays. First, we build a large dataset, comprising 10,468 spine X-ray images from 5,000 studies, each of which is manually annotated by an experienced radiologist with bounding boxes around abnormal findings in 13 categories. Using this dataset, we then train a deep learning classifier to determine whether a spine scan is abnormal and a detector to localize 7 crucial findings amongst the total 13. The VinDr-SpineXR is evaluated on a test set of 2,078 images from 1,000 studies, which is kept separate from the training set. It demonstrates an area under the receiver operating characteristic curve (AUROC) of 88.61% (95% CI 87.19%, 90.02%) for the image-level classification task and a mean average precision (mAP@0.5) of 33.56% for the lesion-level localization task. These results serve as a proof of concept and set a baseline for future research in this direction. To encourage advances, the dataset, codes, and trained deep learning models are made publicly available.
 
@@ -31,13 +28,13 @@ publication_short: ETAEERE 2021
 # summary: A deep learning framework for automatically classifying and localizing abnormalities on spine X-rays. 
 
 tags:
-  - ETAEERE
+  - INISCOM
 featured: false
 
 # links:
 #   - name: Custom Link
 #     url: '#'
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-981-15-8685-9_28'
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-030-77424-0_16'
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
