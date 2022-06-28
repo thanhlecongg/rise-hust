@@ -1,7 +1,7 @@
 ---
-title: 'An example conference paper'
+title: 'AutoPruner: Transformer-based Call Graph Pruning'
 authors:
-  - admin
+  - thanhlc
   - Robert Ford
 date: '2013-07-01T00:00:00Z'
 doi: ''

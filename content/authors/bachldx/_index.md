@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Le Cong Thanh
+title: Le Dinh Xuan Bach
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Incoming PhD Student on Software Engineering
+role: Lecturer/Assistant Professor on Software Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -17,15 +17,19 @@ organizations:
 bio: 
 
 interests:
-  - Automated Bug/Vulnerability Detection
-  - Automated Bug Localization
-  - Automated Program Repair
+  - Software Mining
+  - Empirical Software Engineering
+  - Program Analysis, Repair, Synthesis, and Verification
 
 education:
   courses:
-    - course: BS in Information Technologygy
+    - course: PhD in Software Engineering
+      institution: Singapore Management University
+      year: 2018
+    - course: BEng in Information Technologygy
       institution: Hanoi University of Science and Technology
-      year: 2021
+      year: 2012
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -34,13 +38,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: thanhcls1316@gmail.com'
+    link: 'mailto:bach.le@unimelb.edu.au '
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=iaQgZHYAAAAJ
+    link: https://scholar.google.com.sg/citations?user=AUJWzE8AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/thanhlecongg
+    link: https://github.com/xuanbachle
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,9 +60,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Collaborator
 ---
 
-Le-Cong Thanh is a research engineer in Singapore Management University and an incoming phD student in University of Melbourne. He received his BEng in Information Technology in 2021 from Hanoi University of Science and Technology. His research interests span software engineering and artificial intelligence. Currently, He is focusing on automated debugging for software and artificial intelligent system.
-
+Bach Le is currently a Lecturer at the University of Melbourne, Australia. Previously, he was a postdoc at Carnegie Mellon University, working with ACM Distinguished Scientist & Associate Prof. Corina Pasareanu.
+His research interests span software engineering and programming languages, including: software mining, empirical software engineering, program analysis, repair, synthesis, and verification.
 
